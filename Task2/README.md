@@ -5,6 +5,8 @@
 - IP Class C : 192.168.4.xxx
 - CIDR Block : 192.168.4.0/24
 
+![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/Diagram%20Jaringan%20Komputer%204%20Device.drawio.png)
+
 ### perbedaan shell dan bash
 
 - Shell biasanya bentuknya seperti dollar saja, sedangkan bash itu ada username dan servernya
