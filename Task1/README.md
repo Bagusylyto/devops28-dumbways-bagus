@@ -14,20 +14,20 @@
 
 ### Konfigurasi VirualBox dan mengubah networknya menjadi Bridged Adapter
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/05.%20Screenshot.png)
+![Konfigurasi VirtualBox](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/05.%20Screenshot.png)
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/06.%20Screenshot.png)
+![Konfigurasi VirtualBox](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/06.%20Screenshot.png)
 
 ## Masuk dan Login ke Server di VirtualBox
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/07.%20Screenshot.png)
+![Login Server](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/07.%20Screenshot.png)
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/08.%20Screenshot.png)
+![Login Server](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/08.%20Screenshot.png)
 
 ### Menggunakan IP Address xxx.xxx.xxx.208 untuk server VirtualBox
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/09.%20Screenshot.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/09.%20Screenshot.png)
 
 ### Melakukan Command "ping 8.8.8.8" dan "ping google.com"
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/10.%20Screenshot.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task1/10.%20Screenshot.png)
