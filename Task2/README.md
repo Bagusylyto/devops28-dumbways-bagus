@@ -32,6 +32,8 @@
 
 #### mv = untuk memindahkan file
 
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/1.%20CommandLine.png)
+
 #### echo = pantulan text
 
 #### echo > = pantulan text masuk ke file (replace)
@@ -42,7 +44,7 @@
 
 #### find = menunjukan semua isi direktori
 
-#### find -type t = menunjukan isi direktori hanya file
+#### find -type f = menunjukan isi direktori hanya file
 
 #### find -type d = menunjukan isi direktori hanya direktori
 
@@ -50,7 +52,11 @@
 
 #### grep (kata) (nama file) = untuk mencari kata di dalam file
 
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/2.%20CommandLine.png)
+
 #### nano = masuk teks editor dalam file
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/3.%20CommandLine.png)
 
 #### grep -r (kata) = mencari kata dari semua file yang ada di direktori sekarang
 
@@ -58,6 +64,12 @@
 
 #### chown = menukar kepemilikan
 
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/4.%20CommandLine.png)
+
 #### history = menampilkan semua commad yang pernah di input
 
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/5.%20CommandLine.png)
+
 #### sudo su = mengubah user menjadi root
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/6.%20CommandLine.png)
