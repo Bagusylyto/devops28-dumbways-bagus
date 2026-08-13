@@ -73,3 +73,9 @@
 #### sudo su = mengubah user menjadi root
 
 ![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/6.%20CommandLine.png)
+
+### Chalange
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/7.%20Chalange.png)
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/8.%20Chalange.png)
