@@ -2,7 +2,7 @@
 
 ### Akses Server menggunakan Terminal
 
-![Command Line]()
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/1.%20CMD.png)
 
 ### Konfigurasi SSH menggunakan publik key
 
