@@ -22,4 +22,6 @@
 
 ### Menyalakan UFW dengan memberikan akses untuk port 22, 80, 433, 3000, 5000, dan 6969
 
-![Command Line]()
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/8.%20UFW.png)
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/9.%20UFW.png)
