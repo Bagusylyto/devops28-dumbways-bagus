@@ -6,11 +6,19 @@
 
 ### Konfigurasi SSH menggunakan publik key
 
-![Command Line]()
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/2.%20PublikKey.png)
 
-### Penggunaan text manipulation (grep, sed, cat, echo)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/3.%20PublikKey.png)
 
-![Command Line]()
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/4.%20PublikKey.png)
+
+### Penggunaan text manipulation (grep, sed, cat, sort)
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/5.%20TextManipulation.png)
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/6.%20TextManipulation.png)
+
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task3/7.%20TextManipulation.png)
 
 ### Menyalakan UFW dengan memberikan akses untuk port 22, 80, 433, 3000, 5000, dan 6969
 
