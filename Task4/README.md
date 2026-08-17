@@ -38,6 +38,6 @@
 
 ![GIT](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task4/15.%20Git.png)
 
-![GIT](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task4/16.%20Git.png)
-
 ### Mencari perubahan text pada suatu file Github
+
+![GIT](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task4/16.%20Git.png)
