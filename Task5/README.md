@@ -6,7 +6,7 @@
 - Berjalan di port 3000
 - Menggunakan NodeJS 10 & 12
 
-![NodeJS](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/1.%30NodeJS.png)
+![NodeJS](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/1.%20NodeJS.png)
 
 ![NodeJS](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/2.%20NodeJS.png)
 
