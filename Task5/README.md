@@ -58,3 +58,13 @@
 #### Note : Semua APP bisa diakses dengan UFW Enabled
 
 ![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/21.%UFW.png)
+
+#### Challange
+
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/22.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/23.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/24.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/25.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/26.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/27.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/28.%Challange.png)
