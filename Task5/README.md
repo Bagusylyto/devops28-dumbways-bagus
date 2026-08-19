@@ -39,32 +39,32 @@
 
 - Deploy app menampilkan text "Golang geming!"
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/13.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/13.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/14.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/14.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/15.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/15.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/16.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/16.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/17.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/17.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/18.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/18.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/19.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/19.%20Golang.png)
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/20.%Golang.png)
+![Golang](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/20.%20Golang.png)
 
 #### Note : Semua APP bisa diakses dengan UFW Enabled
 
-![Python](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/21.%UFW.png)
+![UFW](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/21.%UFW.png)
 
 #### Challange
 
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/22.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/23.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/24.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/25.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/26.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/27.%Challange.png)
-![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/28.%Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/22.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/23.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/24.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/25.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/26.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/27.%20Challange.png)
+![PM2](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task5/28.%20Challange.png)
