@@ -16,7 +16,7 @@
 
 - Setup secure_installation
 
-![Database](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task7/03.%20DeployDatabase.png)
+![Database](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task7/03.%20DeployDatabase.jpg)
 
 ![Database](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task7/04.%20DeployDatabase.png)
 
@@ -78,7 +78,7 @@
 
 - Use Node Version 14
 
-![backend](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task7/17.%20DeployBackend.png)
+![backend](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task7/17.%20DeployBackend.jpg)
 
 - Dont forget to change configuration on dumbflix-backend/config/config.json and then adjust it to your database.
 
