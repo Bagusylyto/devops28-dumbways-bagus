@@ -20,4 +20,4 @@
 
 ### Task9 : Infrastructure as Code and Monitoring Server -> https://drive.google.com/drive/folders/1bdFFGpdSdhmeixJa13rZfukMw-ot9HBq?usp=drive_link
 
-### Task10 : Kubernetes -> https://drive.google.com/drive/folders/1FqcrY_TqtjK_ucrBTzmEgHRt3E4z1PNy?usp=sharing
+### Task10 : Kubernetes -> https://drive.google.com/drive/folders/1FqcrY_TqtjK_ucrBTzmEgHRt3E4z1PNy?usp=drive_link
