@@ -16,6 +16,8 @@
 
 ### Task7 : Fundamental Cloud Computing and Database Management -> https://drive.google.com/drive/folders/1gGH-Pgh-0SZ5t_11bZOrJMNY_RlupcRH?usp=drive_link
 
+- Hasil Deploy : [wayshub](http://bagus.studentdumbways.my.id/)
+
 ### Task8 : Containerization and CI/CD Concept -> https://drive.google.com/drive/folders/1AXzI2SDsq1JIY1-4IoAAbe2XRML-aQVN?usp=drive_link
 
 ### Task9 : Infrastructure as Code and Monitoring Server -> https://drive.google.com/drive/folders/1bdFFGpdSdhmeixJa13rZfukMw-ot9HBq?usp=drive_link
