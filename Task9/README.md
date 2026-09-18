@@ -193,4 +193,4 @@
 
 ![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task9/images/88.%20NotifDiscord.png)
 
-![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task9/images/89.%20NotifDIscord.png)
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task9/images/89.%20NotifDiscord.png)
