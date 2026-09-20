@@ -5,7 +5,7 @@
 - IP Class C : 192.168.4.xxx
 - CIDR Block : 192.168.4.0/24
 
-![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/Diagram%20Jaringan%20Komputer%204%20Device.drawio.png)
+![Install Ubuntu](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/Diagram%20Jaringan%20Komputer%204%20Device.drawio.png)
 
 ### perbedaan shell dan bash
 
@@ -32,7 +32,7 @@
 
 #### mv = untuk memindahkan file
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/1.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/1.%20CommandLine.png)
 
 #### echo = pantulan text
 
@@ -52,11 +52,11 @@
 
 #### grep (kata) (nama file) = untuk mencari kata di dalam file
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/2.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/2.%20CommandLine.png)
 
 #### nano = masuk teks editor dalam file
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/3.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/3.%20CommandLine.png)
 
 #### grep -r (kata) = mencari kata dari semua file yang ada di direktori sekarang
 
@@ -64,18 +64,18 @@
 
 #### chown = menukar kepemilikan
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/4.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/4.%20CommandLine.png)
 
 #### history = menampilkan semua commad yang pernah di input
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/5.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/5.%20CommandLine.png)
 
 #### sudo su = mengubah user menjadi root
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/6.%20CommandLine.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/6.%20CommandLine.png)
 
 ### Chalange
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/7.%20Chalange.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/7.%20Chalange.png)
 
-![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/8.%20Chalange.png)
+![Command Line](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task2/images/8.%20Chalange.png)
