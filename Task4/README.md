@@ -1,4 +1,4 @@
-## Day 4 : Introduction to GIT
+## Day 4 : [Introduction to GIT](https://drive.google.com/drive/folders/1j6QG7VlPfX-yAm98A8YU-mKnl-_jsXes?usp=drive_link)
 
 ### Penjelasan tentang GIT
 
