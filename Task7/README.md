@@ -1,4 +1,4 @@
-## Day 7 : Fundamental Cloud Computing and Database Management
+## Day 7 : [Fundamental Cloud Computing and Database Management](https://drive.google.com/drive/folders/1gGH-Pgh-0SZ5t_11bZOrJMNY_RlupcRH?usp=drive_link)
 
 ### Appserver for deploying Database
 
