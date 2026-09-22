@@ -1,4 +1,4 @@
-## Day 2 : Basic Shell and Computer Network
+## Day 2 : [Basic Shell and Computer Networking](https://drive.google.com/drive/folders/1a30K0iUIwiuPGZ6GDD08CWCBkNQVr0Sa?usp=drive_link)
 
 ### Diagram jaringan komputer dengan 4 device dengan kondisi :
 
