@@ -2,7 +2,7 @@
 
 ## Stage 1
 
-### Task1 : Introduction to Devops -> https://drive.google.com/drive/folders/1NZtuTtjDyz75KQzNeM1t4YQKco0QcVTo?usp=drive_link
+### Task1 -> [Introduction to Devops](https://drive.google.com/drive/folders/1NZtuTtjDyz75KQzNeM1t4YQKco0QcVTo?usp=drive_link)
 
 ### Task2 : Basic Shell and Computer Networking -> https://drive.google.com/drive/folders/1a30K0iUIwiuPGZ6GDD08CWCBkNQVr0Sa?usp=drive_link
 
@@ -13,6 +13,8 @@
 ### Task5 : Application in Server -> https://drive.google.com/drive/folders/15tX43SvHeNgrtV-xTiO8G9WRp6cnl9pm?usp=drive_link
 
 ### Task6 : Web Server and Load Balancing -> https://drive.google.com/drive/folders/1uy7JGJAFMNElUh6Vqv4B9PV-1mSnPkps?usp=drive_link
+
+## Stage 2
 
 ### Task7 : Fundamental Cloud Computing and Database Management -> https://drive.google.com/drive/folders/1gGH-Pgh-0SZ5t_11bZOrJMNY_RlupcRH?usp=drive_link
 
