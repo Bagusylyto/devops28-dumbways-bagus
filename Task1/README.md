@@ -1,4 +1,4 @@
-## Day 1 : Introduction to DevOps
+## Day 1 : [Introduction to Devops](https://drive.google.com/drive/folders/1NZtuTtjDyz75KQzNeM1t4YQKco0QcVTo?usp=drive_link)
 
 ### DevOps adalah seorang yang mempelajari berbagai tools dan digunakan dengan tujuan untuk mengurangi proses manual dalam pengujian, pengintegrasian kode secara otomatis, mempercepat proses release dan deployment aplikasi, memantau performa aplikasi dan server secara real-time, dan juga menghapus batasan antara tim developer dan tim ops sehingga kedua tim dapat bertanggung jawab bersama atas kualitas dan stabilitas aplikasi
 
