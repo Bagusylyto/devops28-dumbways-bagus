@@ -18,7 +18,7 @@
 
 ### Task7 -> [Fundamental Cloud Computing and Database Management](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task7#day-7--fundamental-cloud-computing-and-database-management)
 
-### Task8 -> [Containerization and CI/CD Concept](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task8#day-8--containerization-and-ci/cd-concept)
+### Task8 -> [Containerization and CI/CD Concept](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task8#day-8--containerization-and-cicd-concept)
 
 ### Task9 -> [Infrastructure as Code and Monitoring Server](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task9#day-9--infrastructure-as-code-and-monitoring-server)
 
