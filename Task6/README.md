@@ -1,4 +1,4 @@
-## Day 6 : Web Server and Load Balancing
+## Day 6 : [Web Server and Load Balancing](https://drive.google.com/drive/folders/1uy7JGJAFMNElUh6Vqv4B9PV-1mSnPkps?usp=drive_link)
 
 ### Struktur Web Server menggunakan Reverse Proxy
 
