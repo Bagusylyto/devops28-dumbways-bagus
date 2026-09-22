@@ -1,4 +1,4 @@
-## Day 3 : Manage Server with Terminal
+## Day 3 : [Manage Server with Terminal](https://drive.google.com/drive/folders/1-KwPPAhzAvINohyz_z3oucM58fFElkoP?usp=drive_link)
 
 ### Akses Server menggunakan Terminal
 
