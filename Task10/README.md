@@ -22,7 +22,7 @@
 
 ![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/08.%20SetupHelm.png)
 
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/09.%20UninstallTrafefik.png)
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/09.%20UninstallTraefik.png)
 
 ![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/10.%20ConfigKubectl.png)
 
