@@ -144,7 +144,7 @@
 
 ![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/63.%20Aplikasi.png)
 
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/64.%20Aplikasi.png)
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/64.%20Database.png)
 
 - Fe :
   [bagus.kubernetes.studentdumbways.my.id](https://bagus.kubernetes.studentdumbways.my.id/)
