@@ -74,21 +74,21 @@
 
 ![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/32.%20BuildFrontend.png)
 
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/33.%20BuildFrontend.png)
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/33.%20BuildBackend.png)
 
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/34.%20BuildFrontend.png)
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/34.%20BuildBackend.png)
 
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/35.%20BuildFrontend.png)
-
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/36.%20BuildFrontend.png)
-
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/37.%20BuildFrontend.png)
-
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/38.%20BuildFrontend.png)
-
-![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/39.%20BuildFrontend.png)
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/35.%20BuildBackend.png)
 
 #### Deploy Database Mysql with Statefullset and Secrets
+
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/36.%20BuildDatabase.png)
+
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/37.%20BuildDatabase.png)
+
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/38.%20BuildDatabase.png)
+
+![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/39.%20BuildDatabase.png)
 
 ![Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/Task10/images/40.%20MigrateDatabase.png)
 
