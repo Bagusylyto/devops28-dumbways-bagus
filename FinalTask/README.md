@@ -304,7 +304,7 @@
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/121.%20BackendCICD.png)
 
-![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/122.%20BackedSonarqube.png)
+![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/122.%20BackedSonarQube.png)
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/123.%20BackendTrivy.png)
 
