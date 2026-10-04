@@ -268,9 +268,9 @@
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/105.%20Credentials.png)
 
-![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/106.%20ToolsSonarqube.png)
+![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/106.%20ToolsSonarQube.png)
 
-![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/107.%20SystemSonarqube.png)
+![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/107.%20SystemSonarQube.png)
 
 #### Jenkinsfile
 
