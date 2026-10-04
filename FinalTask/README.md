@@ -334,4 +334,58 @@
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/134.%20DashboardSonarQube.png)
 
-###
+### Web Server
+
+#### Configuration
+
+![Webserver](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/135.%20ReverseProxy.png)
+
+![Webserver](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/136.%20ReverseProxy.png)
+
+![Webserver](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/137.%20ReverseProxy.png)
+
+![Webserver](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/138.%20ReverseProxy.png)
+
+![Webserver](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/139.%20ReverseProxy.png)
+
+### Monitoring
+
+#### Setup Monitoring
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/140.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/141.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/142.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/143.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/144.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/145.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/146.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/147.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/148.%20SetupMonitoring.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/149.%20SetupMonitoring.png)
+
+#### Configuration
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/150.%20NodeExporter.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/151.%20NodeExporter.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/152.%20Cadvisor.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/153.%20Prometheus.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/154.%20Prometheus.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/155.%20Prometheus.png)
+
+#### Dashboard and Notif
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/156.%20Grafana.png)
