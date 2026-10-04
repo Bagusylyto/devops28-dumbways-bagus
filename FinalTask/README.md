@@ -288,7 +288,7 @@
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/113.%20FrontendCICD.png)
 
-![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/114.%20FrontendSonarqube.png)
+![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/114.%20FrontendSonarQube.png)
 
 ![Jenkins&Testing](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/115.%20FrontendTrivy.png)
 
