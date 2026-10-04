@@ -386,6 +386,54 @@
 
 ![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/155.%20Prometheus.png)
 
-#### Dashboard and Notif
+#### Config Grafana
 
 ![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/156.%20Grafana.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/157.%20DataSource.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/158.%20ContactPoint.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/159.%20ContactPoint.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/160.%20ContactPoint.png)
+
+#### Dashboard and Notif
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/161.%20AlertRuleCpu.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/162.%20AlertRuleCpu.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/163.%20AlertRuleCpu.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/164.%20AlertRuleCpu.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/165.%20AlertRuleRam.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/166.%20AlertRuleRam.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/167.%20AlertRuleRam.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/168.%20AlertRuleDisk.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/169.%20AlertRuleDisk.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/170.%20AlertRuleDisk.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/171.%20AlertRuleNetwork.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/172.%20AlertRuleNetwork.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/173.%20AlertRuleNetwork.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/174.%20DashboardGrafana.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/175.%20DashboardCpu.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/176.%20DashboardRam.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/177.%20DashboardDisk.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/178.%20DashboardNetwork.png)
+
+![Monitoring](https://github.com/Bagusylyto/devops28-dumbways-bagus/blob/main/FinalTask/images/179.%20DashboardNetwork.png)
