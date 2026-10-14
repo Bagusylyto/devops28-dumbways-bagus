@@ -23,3 +23,5 @@
 ### Task9 -> [Infrastructure as Code and Monitoring Server](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task9#day-9--infrastructure-as-code-and-monitoring-server)
 
 ### Task10 -> [Kubernetes](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/Task10#day-10--kubernetes)
+
+### Final Task -> [Final Task](https://github.com/Bagusylyto/devops28-dumbways-bagus/tree/main/FinalTask#last-day--finaltask)
